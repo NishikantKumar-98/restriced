@@ -1,0 +1,14 @@
+transformers
+huggingface-hub
+torch
+fastapi
+uvicorn[standard]
+pydantic
+sentencepiece
+tokenizers
+protobuf
+pytesseract
+pillow
+pymupdf
+whisper
+
